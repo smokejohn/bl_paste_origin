@@ -16,6 +16,7 @@ The operator name is object.paste_origin
 ## Installing
 
 **You can install this addon by downloading the zip file from the [Releases page](https://github.com/smokejohn/bl_paste_origin/releases)**
+
 The zip file can be used to install the addon via the Blender Preferences GUI:
 
 **[Edit -> Preferences -> Add-ons -> Install...]**
