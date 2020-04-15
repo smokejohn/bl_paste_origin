@@ -22,7 +22,7 @@ The zip file can be used to install the addon via the Blender Preferences GUI:
 **[Edit -> Preferences -> Add-ons -> Install...]**
 
 
-or by placing the source files in the following directory:
+or by placing the source files in the following directory in a folder called paste_origin:
 
 ### Windows
 X:\Users\[profile]\AppData\Roaming\Blender Foundation\Blender\2.8x\scripts\addons\
