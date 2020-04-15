@@ -19,7 +19,7 @@ The operator name is object.paste_origin
 
 The zip file can be used to install the addon via the Blender Preferences GUI:
 
-**[Edit -> Preferences -> Add-ons -> Install...]**
+**[Edit -> Preferences -> Add-ons -> Install... -> select paste_origin.zip -> press OK]**
 
 
 or by placing the source files in the following directory in a folder called paste_origin:
