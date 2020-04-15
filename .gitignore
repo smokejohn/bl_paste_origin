@@ -1,1 +1,4 @@
 install.sh
+make.sh
+release/
+zip/
