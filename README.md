@@ -10,12 +10,16 @@ This simple operator centers the geomtry at the scene origin, if you are pasting
 
 **By default this operator binds itself to the hotkey CTRL+SHIFT+V**
 
-You can rebind this operator in the Keymap [Edit -> Preferences -> Keymap].
+You can rebind this operator in the Keymap **[Edit -> Preferences -> Keymap].**
 The operator name is object.paste_origin
 
 ## Installing
 
 **You can install this addon by downloading the zip file from the [Releases page](https://github.com/smokejohn/bl_paste_origin/releases)**
+The zip file can be used to install the addon via the Blender Preferences GUI:
+
+**[Edit -> Preferences -> Add-ons -> Install...]**
+
 
 or by placing the source files in the following directory:
 
